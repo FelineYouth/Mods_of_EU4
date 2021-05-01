@@ -1,11 +1,11 @@
-# Mods of Europa Universalis IV
+# **Mods of Europa Universalis IV**
 
 Some of my mods of EU4. 
 
 ## Notice
 
 - This project is **unofficial**.
-- Only Windows is supported.
+- Only **Windows** is supported.
 
 ## Find bugs
 
