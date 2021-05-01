@@ -1,6 +1,6 @@
-# **Mods of Europa Universalis IV**
+# **Mods for Europa Universalis IV**
 
-Some of my mods of EU4. 
+Some of my mods for EU4. 
 
 ## Notice
 
