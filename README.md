@@ -1,4 +1,4 @@
-# Mods of Europa Universalis IV**
+# Mods of Europa Universalis IV
 
 Some of my mods of EU4. 
 
